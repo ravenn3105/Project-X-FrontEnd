@@ -1,0 +1,29 @@
+/* .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 400px;
+  }
+  
+  .alert-message {
+    flex: 1;
+  } */
+  
+  .alert-close {
+    float: right;
+    background: none;
+    border: none;
+    color: #721c24;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  
